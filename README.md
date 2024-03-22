@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Sathappa Subramaniam
-- 👀 I’m expert in .net development & sql
-- 🌱 I’m currently learning c
 - 📫 How to reach me 💞️sathappa123@gmail.com
 
 <!---
